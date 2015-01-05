@@ -1,5 +1,5 @@
 name:                disk-free-space
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Retrieve information about disk space usage
 description:
   A cross-platform library retrieve information about disk space usage.

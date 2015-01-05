@@ -1,0 +1,3 @@
+v0.1.0.1
+
+	* Mark the import of statvfs as safe.

@@ -20,7 +20,7 @@ import Foreign.C
 
 #include <sys/statvfs.h>
 
-foreign import ccall unsafe statvfs :: CString -> Ptr a -> IO CInt
+foreign import ccall safe statvfs :: CString -> Ptr a -> IO CInt
 
 type FsBlkCnt = #type fsblkcnt_t
 
