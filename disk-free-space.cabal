@@ -13,6 +13,9 @@ category:            System, Filesystem
 build-type:          Simple
 cabal-version:       >=1.10
 
+extra-source-files:
+  ChangeLog
+
 source-repository head
   type: git
   location: https://github.com/redneb/disk-free-space.git
