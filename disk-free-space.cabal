@@ -2,7 +2,7 @@ name:                disk-free-space
 version:             0.1.0.1
 synopsis:            Retrieve information about disk space usage
 description:
-  A cross-platform library to retrieve information about disk space usage.
+  A cross-platform library for retrieving information about disk space usage.
 homepage:            https://github.com/redneb/disk-free-space
 bug-reports:         https://github.com/redneb/disk-free-space/issues
 license:             BSD3
